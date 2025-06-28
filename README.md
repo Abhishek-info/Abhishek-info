@@ -65,16 +65,6 @@
 
 <br>
 
-## 🎯 Support Me
-
-<p>
-  <a href="https://www.buymeacoffee.com/abhishekinfo"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekinfo" /></a> &nbsp;&nbsp;
-  <a href="https://ko-fi.com/abhishekinfo"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abhishekinfo" />
-  </a>
-</p><br><br>
-
 <br>
 
 ## 📊 GitHub Stats 
